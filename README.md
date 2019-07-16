@@ -1,2 +1,2 @@
-# the_color_game
-Simple Color Game
+# winnie project demo page
+1. Simple Color Game
